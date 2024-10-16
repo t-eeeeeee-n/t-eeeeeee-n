@@ -1,6 +1,9 @@
 # 👋 Hi there! I'm t-eeeeeee-n!
 
 Welcome to my GitHub profile! I'm a passionate developer with experience in various programming languages and frameworks. Check out my projects and contributions below.
+<div align="center" height="50px">
+  <img src="./profile-picture.jpg" />
+</div>
 
 ## 🚀 Skill Set
 
