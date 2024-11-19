@@ -1,5 +1,4 @@
 # 👋 Hi there! I'm t-eeeeeee-n!
-
 Welcome to my GitHub profile! I'm a passionate developer with experience in various programming languages and frameworks. Check out my projects and contributions below.
 <div align="center" height="50px">
   <img src="./profile-picture.jpg" />
@@ -29,4 +28,6 @@ Here is a quick overview of the technologies I work with:
     <img alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=t-eeeeeee-n&theme=onedark&column=7" />
   </a>
 </p>
+
+![github-user-contribution](https://raw.githubusercontent.com/mbayeellamine/mbayeellamine/main/img/snake.gif)
 
