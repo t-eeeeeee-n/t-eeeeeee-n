@@ -21,13 +21,3 @@ Here is a quick overview of the technologies I work with:
   <img alt="GitHub Stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=t-eeeeeee-n&count_private=true&show_icons=true&theme=onedark" />
 </p>
 
-## 🏆 Achievements
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=t-eeeeeee-n&theme=onedark&column=7" />
-  </a>
-</p>
-
-![github-user-contribution](https://raw.githubusercontent.com/mbayeellamine/mbayeellamine/main/img/snake.gif)
-
