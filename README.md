@@ -21,3 +21,16 @@ Here is a quick overview of the technologies I work with:
   <img alt="GitHub Stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=t-eeeeeee-n&count_private=true&show_icons=true&theme=onedark" />
 </p>
 
+## Projects
+
+### SpecPilot
+AI-powered design support SaaS for software development workflows.
+
+### Yasuimise
+Supermarket price comparison platform built with Next.js, NestJS, PostgreSQL, and Vertex AI.
+
+
+## Elsewhere
+
+- Portfolio: https://teeeen.vercel.app
+- LinkedIn: https://linkedin.com/in/xxxxx
