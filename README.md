@@ -14,13 +14,6 @@ Here is a quick overview of the technologies I work with:
   </a>  
 </div>
 
-## 📊 GitHub Stats
-
-<p align="center"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=t-eeeeeee-n&layout=compact&count_private=true&show_icons=true&theme=onedark" />
-  <img alt="GitHub Stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=t-eeeeeee-n&count_private=true&show_icons=true&theme=onedark" />
-</p>
-
 ## Projects
 
 ### SpecPilot
