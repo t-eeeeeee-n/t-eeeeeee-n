@@ -16,14 +16,17 @@ Here is a quick overview of the technologies I work with:
 
 ## Projects
 
+### kairi
+Review tool that converts Excel/Word design docs and source code (Python / TypeScript) into the same Markdown schema, then flags where they disagree and what neither of them states. Rule-based by default, so nothing leaves the machine. In development.
+
 ### SpecPilot
-AI-powered design support SaaS for software development workflows.
+AI-powered design support SaaS for software development workflows: from meeting notes to design docs and a "vibe pack" for coding agents. In development.
 
 ### Yasuimise
-Supermarket price comparison platform built with Next.js, NestJS, PostgreSQL, and Vertex AI.
+Supermarket price comparison service built with Next.js, NestJS, PostgreSQL, and Vertex AI. Built up to running on Cloud Run; withdrawn before public launch in July 2026.
 
 
 ## Elsewhere
 
 - Portfolio: https://teeeen.vercel.app
-- LinkedIn: https://linkedin.com/in/xxxxx
+- LinkedIn: https://www.linkedin.com/in/tensho-arai-b071142a3/
